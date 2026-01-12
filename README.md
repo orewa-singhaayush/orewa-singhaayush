@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aayush Kumar Singh</h1>
 <h3 align="center">Engineering student • Frontend developer • Cybersecurity learner 🚀</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=orewa-singhaayuh&label=Profile%20views&color=0e75b6&style=flat" alt="orewa-singhaayuh" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orewa-singhaayuh" alt="orewa-singhaayuh" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/singh_aayushh" target="blank"><img src="https://img.shields.io/twitter/follow/singh_aayushh?logo=twitter&style=for-the-badge" alt="singh_aayushh" /></a> </p>
 
 - 📫 How to reach me **singhaayushhh05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aayush-singh-778716343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-singh-778716343" height="30" width="40" /></a>
+<a href="https://twitter.com/singh_aayushh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singh_aayushh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayush-singh-778716343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-singh-778716343/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@aayushssingh125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayushssingh125" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/aayushss69ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/aayushss69ba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
