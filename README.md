@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Aayush Kumar Singh</h1>
+<h3 align="center">💻 Engineering Student | 🌐 Frontend Developer | 🔐 Cybersecurity Learner</h3>
+
+
 # 💫 About Me:
 🎓 Computer Engineering Student<br>💡 Passionate about Cybersecurity & Web Development<br>🚀 Currently learning DSA + Security Fundamentals<br>📫 Reach me at: singhaayushhh05@gmail.com
 
